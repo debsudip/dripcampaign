@@ -1,0 +1,14 @@
+D:\Working\Sprint4\DripCampaign\DripCampaign\bin\DripCampaign.dll
+D:\Working\Sprint4\DripCampaign\DripCampaign\bin\DripCampaign.pdb
+D:\Working\Sprint4\DripCampaign\DripCampaign\obj\Debug\DripCampaign.dll
+D:\Working\Sprint4\DripCampaign\DripCampaign\obj\Debug\DripCampaign.pdb
+D:\Working\DripCampaign\DripCampaign\bin\DripCampaign.dll
+D:\Working\DripCampaign\DripCampaign\bin\DripCampaign.pdb
+D:\Working\DripCampaign\DripCampaign\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\DripCampaign\DripCampaign\obj\Debug\DripCampaign.dll
+D:\Working\DripCampaign\DripCampaign\obj\Debug\DripCampaign.pdb
+D:\GitHub\dripcampaign\DripCampaign\bin\DripCampaign.dll
+D:\GitHub\dripcampaign\DripCampaign\bin\DripCampaign.pdb
+D:\GitHub\dripcampaign\DripCampaign\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHub\dripcampaign\DripCampaign\obj\Debug\DripCampaign.dll
+D:\GitHub\dripcampaign\DripCampaign\obj\Debug\DripCampaign.pdb
